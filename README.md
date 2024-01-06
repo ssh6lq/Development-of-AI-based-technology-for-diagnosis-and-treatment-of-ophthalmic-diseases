@@ -1,1 +1,30 @@
-# Development-of-AI-based-technology-for-diagnosis-and-treatment-of-ophthalmic-diseases
+## 비대면 안과 질환 진단 및 치료를 위한 AI기반 기술 개발
+### 📌 프로젝트 소개
+- **과제목표** : 기 개발된 AI 보조 닥터의 성능을 극대화시키고, AI 보조 닥터의 기능 확장을 위한 병원 및 환자의 실시간 신체 정보를 얻을 수 있는 플랫폼을 구축을 목표로 함.
+
+---
+
+### 📆 프로젝트 기간
+2020.12.07 ~ 2022.04.15
+
+---
+
+### ⚙️ 개발환경
+- `Python`
+- **Framework** : `tensorflow` `pytorch` `keras` `sckit-learn`
+  
+---
+
+### ✔️ 역할
+#### 데이터
+- **데이터 구성** : `안저이미지` `OCT 이미지` `환자정보 CSV 데이터`
+
+  
+#### AI 모델링
+- **SVM**
+  - 추후 추가
+- **ViT(Vision Transformer)**
+  - 추후 추가
+
+
+
