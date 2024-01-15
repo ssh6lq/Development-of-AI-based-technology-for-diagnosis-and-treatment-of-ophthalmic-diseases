@@ -11,7 +11,7 @@
 
 ### ⚙️ 개발환경
 - `Python`
-- **Framework** : `tensorflow` `pytorch` `keras` `sckit-learn`
+- **Framework** : `tensorflow` `pytorch` `keras` `scikit-learn`
   
 ---
 
