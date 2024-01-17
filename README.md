@@ -30,7 +30,12 @@
 
 ### ✔️ 역할
 #### 데이터
-- **데이터 구성** : `안저이미지` `OCT 이미지` `환자정보 CSV 데이터`
+- **데이터 구성** : `안저이미지(Fundus image)` `OCT 이미지` `환자정보 CSV 데이터`
+  - **안저이미지(Fundus image)**
+  - **OCT Image**
+    <p align="center">  
+    <img src="https://github.com/ssh6lq/Development-of-AI-based-technology-for-diagnosis-and-treatment-of-ophthalmic-diseases/assets/154342847/a0a56ce1-611a-443f-84f2-7a7a9f849535.png" align="center" width="50%">  
+    </p>
 
   
 #### AI 모델링
