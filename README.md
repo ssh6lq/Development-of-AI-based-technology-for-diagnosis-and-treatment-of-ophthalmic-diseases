@@ -29,20 +29,23 @@
 ---
 
 ### ✔️ 역할
-#### 데이터
+#### 데이터 전처리
 - **데이터 구성** : `안저이미지(Fundus image)` `OCT 이미지` `환자정보 CSV 데이터`
   - **안저이미지(Fundus image)**
+    <p align="center">  
+    <img src="https://github.com/ssh6lq/Development-of-AI-based-technology-for-diagnosis-and-treatment-of-ophthalmic-diseases/assets/154342847/82568f36-fa1e-4e20-96a2-92e636f3026b.png" align="center" width="20%">  
+    <img src="https://github.com/ssh6lq/Development-of-AI-based-technology-for-diagnosis-and-treatment-of-ophthalmic-diseases/assets/154342847/239e80db-6c95-49a0-bedf-f62be4a2329e.png" align="center" width="20%">  
+    </p>
   - **OCT Image**
     <p align="center">  
     <img src="https://github.com/ssh6lq/Development-of-AI-based-technology-for-diagnosis-and-treatment-of-ophthalmic-diseases/assets/154342847/a0a56ce1-611a-443f-84f2-7a7a9f849535.png" align="center" width="50%">  
     </p>
 
   
-#### AI 모델링
+#### 안저이미지 및 OCT이미지를 활용한 시력 예측 연구
 - **SVM**
-  - 추후 추가
 - **ViT(Vision Transformer)**
-  - 추후 추가
+
 
 
 
