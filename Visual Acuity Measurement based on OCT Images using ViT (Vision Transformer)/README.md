@@ -1,5 +1,6 @@
 ## OCT이미지 데이터 기반 시력 예측 연구(KSC2022)
 ### 📌 논문 소개
+- 학회 포스터
     <p align="center">  
     <img src="https://github.com/ssh6lq/Development-of-AI-based-technology-for-diagnosis-and-treatment-of-ophthalmic-diseases/assets/154342847/35418487-f554-440d-9130-83a0acf06259.png" align="center" width="30%">  
     </p>
