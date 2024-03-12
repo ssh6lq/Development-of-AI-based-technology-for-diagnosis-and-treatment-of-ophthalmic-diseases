@@ -2,14 +2,10 @@
 ### 📌 논문 소개
 
 -
-    <p align="center">  
-    <img src="https://github.com/ssh6lq/Development-of-AI-based-technology-for-diagnosis-and-treatment-of-ophthalmic-diseases/assets/154342847/35418487-f554-440d-9130-83a0acf06259.png" align="center" width="30%">  
-    </p>
-
 ---
 
 ### 📆 논문 게재
-2022/02/02
+2023/02/02
 ---
 
 ### ⚙️ 개발환경
