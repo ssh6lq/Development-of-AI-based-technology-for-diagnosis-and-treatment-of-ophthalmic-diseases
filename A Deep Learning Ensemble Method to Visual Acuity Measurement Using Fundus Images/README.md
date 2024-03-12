@@ -16,7 +16,18 @@
     <p align="center">  
     <img src="https://github.com/ssh6lq/Development-of-AI-based-technology-for-diagnosis-and-treatment-of-ophthalmic-diseases/assets/154342847/630f0c1f-dfcf-4aa4-8715-c61af3fc3067.png" align="center" width="50%">  
   - **환자 정보 관리 차트**
+    - 기존 테이블
+      -  | Record key | Patient number | Name | Gender | Birth date | Writer | Date | Objective | Accessment |
+         |------------|----------------|------|--------|------------|--------|------|-----------|------------|
+       
+    - 시력 변수 추가 테이블
+      - | Record key | Patient number | Name | Gender | Birth date | Writer | Date | Objective | Accessment | R)UCVA | R)CVA | R)BCVA | L)UCVA | L)CVA | L)BCVA |
+        |------------|----------------|------|--------|------------|--------|------|-----------|------------|--------|-------|--------|--------|-------|--------|
+
+- **데이터 셋**
+  - 이미지와 테이블 매칭한 시력 데이터 셋 생성   
     
+
 
 
 ---
@@ -25,6 +36,7 @@
 <p align="center"> 
 <img src="https://github.com/ssh6lq/Development-of-AI-based-technology-for-diagnosis-and-treatment-of-ophthalmic-diseases/assets/154342847/659c37db-dbab-41a9-a4eb-30eb9a3ec4c4.png" align="center" >
 
+- **Model** : `VGG19` `Effieint-B7` `SVM` 
 ---
 ### ⚙️ 개발환경
 - `Python`
@@ -33,8 +45,8 @@
 ---
 
 ### ✔️ 역할
-#### 안저이미지(Fundus imag)데이터를 활용한 시력 예측
-- 실제 안과 데이터 기반의 ML/DL기법을 적용으로 시력을 예측하는 연구를 수행하였음.
+- **팀원** : 4명
+
 
 
 
