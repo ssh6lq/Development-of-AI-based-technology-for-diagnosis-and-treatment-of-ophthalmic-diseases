@@ -18,6 +18,11 @@
     - | Record key | Patient number | Name | Gender | Birth date | Writer | Date | Objective | Accessment | R)UCVA | R)CVA | R)BCVA | L)UCVA | L)CVA | L)BCVA |
       |------------|----------------|------|--------|------------|--------|------|-----------|------------|--------|-------|--------|--------|-------|--------|
 ---
+  - **데이터 셋**
+    -   | class1(0.0~0.05) | class2(0.1~0.2) | class3(0.3~0.7) | class4(0.8~1.0) | total  |
+        |------------------|-----------------|-----------------|-----------------|--------|
+        |      20,100      |      22,576     |      21,450     |      21,568     | 85,694 |
+
 ### 모델
 <p align="center">  
     <img src="https://github.com/ssh6lq/Development-of-AI-based-technology-for-diagnosis-and-treatment-of-ophthalmic-diseases/assets/154342847/e0b5f190-2d63-460b-a3ae-57cfb6471b8b.png" align="center" width="70%">  
