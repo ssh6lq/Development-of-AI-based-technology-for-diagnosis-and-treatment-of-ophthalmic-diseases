@@ -44,7 +44,8 @@
     <p align="center">  
     <img src="https://github.com/ssh6lq/Development-of-AI-based-technology-for-diagnosis-and-treatment-of-ophthalmic-diseases/assets/154342847/a0a56ce1-611a-443f-84f2-7a7a9f849535.png" align="center" width="50%">  
     </p>
-
+    
+**모델 코드는 공개가 어렵습니다.**
 
 
 
